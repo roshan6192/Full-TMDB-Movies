@@ -1,0 +1,8 @@
+numpy 
+pandas 
+matplotlib
+scikit-learn
+transformers
+torch
+sentence-transformers
+# conda activate E:\Projects\Full-TMDB-Movies\menv
